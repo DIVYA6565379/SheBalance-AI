@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SheBalance – AI Powered PCOD Early Risk Assessment Platform
 
 SheBalance helps users assess early risk for PCOD, get personalized recommendations, analyze medical images via an AI microservice, and generate PDF reports.
@@ -54,3 +55,7 @@ docker-compose up -d
 ## Next Steps
 See `TODO.md` for the staged implementation plan.
 
+=======
+# SheBalance-AI
+SheBalance-AI is a full-stack healthcare platform that helps women assess PCOD risk through AI-powered questionnaires, health tracking, ultrasound image analysis, and doctor recommendations using React, Node.js, MongoDB, and Python.
+>>>>>>> cdc5789abbf04bae89c2e288e316fd59cc466560
