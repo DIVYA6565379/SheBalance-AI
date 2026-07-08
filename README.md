@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SheBalance – AI Powered PCOD Early Risk Assessment Platform
 
 SheBalance helps users assess early risk for PCOD, get personalized recommendations, analyze medical images via an AI microservice, and generate PDF reports.
